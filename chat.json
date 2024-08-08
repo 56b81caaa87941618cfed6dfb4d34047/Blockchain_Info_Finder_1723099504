@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button with navlinks home, about and contact",
+        "message_id": "guest08082024065508",
+        "timestamp": "08082024065509",
+        "component_file_name": "simple_cta_component_1723099505",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Expandable sub-menus under each main navlink for categorizing further information\", \"checked\": false}, {\"feature\": \"Dynamic search bar in the sidebar for quick access to specific blockchain topics\", \"checked\": true}, {\"feature\": \"Latest blockchain news ticker or notifications in the sidebar\", \"checked\": true}, {\"feature\": \"Customizable themes or color schemes for the sidebar matching blockchain brands or tokens\", \"checked\": false}, {\"feature\": \"Feedback form or survey linked under the contact section for user engagement\", \"checked\": false}, {\"feature\": \"Bookmark or save feature for users to keep track of their favorite blockchain info accessible via the sidebar\", \"checked\": true}], \"input_token_count\": 219, \"output_token_count\": 142, \"time_taken\": \"0:00:06.135315\"}",
         "message_id": "guest08082024065043",
