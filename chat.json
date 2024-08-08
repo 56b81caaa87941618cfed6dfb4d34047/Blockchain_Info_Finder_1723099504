@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Expandable sub-menus under each main navlink for categorizing further information\", \"checked\": false}, {\"feature\": \"Dynamic search bar in the sidebar for quick access to specific blockchain topics\", \"checked\": true}, {\"feature\": \"Latest blockchain news ticker or notifications in the sidebar\", \"checked\": true}, {\"feature\": \"Customizable themes or color schemes for the sidebar matching blockchain brands or tokens\", \"checked\": false}, {\"feature\": \"Feedback form or survey linked under the contact section for user engagement\", \"checked\": false}, {\"feature\": \"Bookmark or save feature for users to keep track of their favorite blockchain info accessible via the sidebar\", \"checked\": true}], \"input_token_count\": 219, \"output_token_count\": 142, \"time_taken\": \"0:00:06.135315\"}",
+        "message_id": "guest08082024065043",
+        "timestamp": "08082024065051",
+        "component_file_name": "simple_footer_component_1723099505",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the sidebar to be permanently visible or should it be collapsible and only appear when a button is clicked?\", \"option1\": \"Permanently visible\", \"option2\": \"Collapsible with a button\"}, {\"question 2\": \"Should the sidebar navigation include icons next to the text labels, or would you prefer text labels only?\", \"option1\": \"Include icons and text labels\", \"option2\": \"Text labels only\"}], \"input_token_count\": 265, \"output_token_count\": 105, \"time_taken\": \"0:00:03.480838\"}",
         "message_id": "guest08082024065043",
