@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Sticky header for easier navigation, which includes the navbar with your requested navlinks\", \"checked\": true}, {\"feature\": \"Dynamic search bar in the navbar to find specific blockchain topics or keywords\", \"checked\": false}, {\"feature\": \"Dropdown menus under navlinks for categorizing information (e.g., under 'Home' have 'Trending', 'Latest News', 'Projects')\", \"checked\": false}, {\"feature\": \"User profile icon in the navbar for account settings and preferences\", \"checked\": true}, {\"feature\": \"Night mode toggle switch in the navbar for eye comfort during late hours browsing\", \"checked\": false}, {\"feature\": \"Language selection option in the navbar for multi-lingual support\", \"checked\": false}], \"input_token_count\": 219, \"output_token_count\": 156, \"time_taken\": \"0:00:08.385531\"}",
+        "message_id": "guest08082024064708",
+        "timestamp": "08082024064718",
+        "component_file_name": "simple_header_component_1723099505",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the navbar to be sticky at the top of the page or should it scroll away with the page?\", \"option1\": \"Yes, make the navbar sticky at the top.\", \"option2\": \"No, the navbar should scroll away with the page.\"}, {\"question 2\": \"Do you have a design theme or color scheme in mind for the navbar and navlinks?\", \"option1\": \"Yes, I have a specific design theme or color scheme.\", \"option2\": \"No, I'm open to suggestions based on the current design of the app.\"}], \"input_token_count\": 265, \"output_token_count\": 130, \"time_taken\": \"0:00:07.402196\"}",
         "message_id": "guest08082024064708",
