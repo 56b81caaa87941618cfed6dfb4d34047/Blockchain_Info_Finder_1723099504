@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the navbar to be sticky at the top of the page or should it scroll away with the page?\", \"option1\": \"Yes, make the navbar sticky at the top.\", \"option2\": \"No, the navbar should scroll away with the page.\"}, {\"question 2\": \"Do you have a design theme or color scheme in mind for the navbar and navlinks?\", \"option1\": \"Yes, I have a specific design theme or color scheme.\", \"option2\": \"No, I'm open to suggestions based on the current design of the app.\"}], \"input_token_count\": 265, \"output_token_count\": 130, \"time_taken\": \"0:00:07.402196\"}",
+        "message_id": "guest08082024064708",
+        "timestamp": "08082024064717",
+        "component_file_name": "simple_header_component_1723099505",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Alright, I'll add a navbar with the NavLinks.",
         "message_id": "guest08082024064708",
