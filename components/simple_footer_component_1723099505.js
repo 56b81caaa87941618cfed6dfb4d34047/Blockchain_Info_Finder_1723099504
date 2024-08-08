@@ -10,13 +10,13 @@ Vue.component("simple_footer_component_1723099505", {
                         <div>
                             <a href="#" class="flex items-center py-4 px-2">
                                 <img src="./images/logo.svg" alt="Logo" class="h-8 w-8 mr-2">
-                                <span class="font-semibold text-gray-500 text-lg">BlockchainExplorer</span>
+                                <span class="font-semibold text-purple-700 text-lg">BlockchainExplorer</span>
                             </a>
                         </div>
                         <div class="hidden md:flex items-center space-x-1">
-                            <a href="#" class="py-4 px-2 text-gray-500 font-semibold hover:text-green-500 transition duration-300">Home</a>
-                            <a href="#" class="py-4 px-2 text-gray-500 font-semibold hover:text-green-500 transition duration-300">About</a>
-                            <a href="#" class="py-4 px-2 text-gray-500 font-semibold hover:text-green-500 transition duration-300">Contact</a>
+                            <a href="#" class="py-4 px-2 text-purple-700 font-semibold hover:text-purple-500 transition duration-300">Home</a>
+                            <a href="#" class="py-4 px-2 text-purple-700 font-semibold hover:text-purple-500 transition duration-300">About</a>
+                            <a href="#" class="py-4 px-2 text-purple-700 font-semibold hover:text-purple-500 transition duration-300">Contact</a>
                         </div>
                     </div>
                 </div>
