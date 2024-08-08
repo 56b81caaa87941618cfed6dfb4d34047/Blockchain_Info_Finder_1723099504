@@ -1,6 +1,24 @@
 [
     {
         "role": "user",
+        "content": "add a sidebar with navlinks home, about and contact",
+        "message_id": "guest08082024065043",
+        "timestamp": "08082024065044",
+        "component_file_name": "simple_footer_component_1723099505",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the navbar to be fixed at the top of all pages for easy navigation, or would you prefer a different placement?\", \"option1\": \"Yes, fix it at the top of all pages.\", \"option2\": \"No, I'd prefer it positioned differently.\"}, {\"question 2\": \"For the navlinks 'Home', 'About', and 'Contact', do you have specific URL destinations in mind, or should they link to sections within the same page?\", \"option1\": \"Link them to specific URLs.\", \"option2\": \"Link to sections within the same page.\"}], \"input_token_count\": 341, \"output_token_count\": 134, \"time_taken\": \"0:00:04.889476\"}",
+        "message_id": "guest08082024064915",
+        "timestamp": "08082024064922",
+        "component_file_name": "simple_footer_component_1723099505",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
         "content": "add a navbar with navlinks home, about and contact",
         "message_id": "guest08082024064915",
         "timestamp": "08082024064917",
@@ -72,27 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_acknowledge",
-        "content": "Got it, adding a button that says hello world.",
-        "message_id": "guest08082024064533",
-        "timestamp": "08082024064534",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "add a button that says hello world",
-        "message_id": "guest08082024064533",
-        "timestamp": "08082024064534",
-        "component_file_name": "simple_header_component_1723099505",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "Can you describe the project a bit more?",
-        "timestamp": "08082024064917",
-        "message_id": "guest08082024064915"
+        "content": "In the conversation, the user requested the AI to add a button that says \"hello world.\" The AI acknowledged this request and sought further clarification by asking the user to describe the project in more detail.",
+        "timestamp": "08082024065044",
+        "message_id": "guest08082024065043"
     }
 ]

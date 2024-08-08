@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a sidebar with navlinks home, about and contact",
+        "message_id": "guest08082024065043",
+        "timestamp": "08082024065044",
+        "component_file_name": "simple_footer_component_1723099505",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the navbar to be fixed at the top of all pages for easy navigation, or would you prefer a different placement?\", \"option1\": \"Yes, fix it at the top of all pages.\", \"option2\": \"No, I'd prefer it positioned differently.\"}, {\"question 2\": \"For the navlinks 'Home', 'About', and 'Contact', do you have specific URL destinations in mind, or should they link to sections within the same page?\", \"option1\": \"Link them to specific URLs.\", \"option2\": \"Link to sections within the same page.\"}], \"input_token_count\": 341, \"output_token_count\": 134, \"time_taken\": \"0:00:04.889476\"}",
         "message_id": "guest08082024064915",
