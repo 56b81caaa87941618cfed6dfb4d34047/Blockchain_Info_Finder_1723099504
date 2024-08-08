@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the button with navlinks to be placed in your app's layout?\", \"option1\": \"In the header alongside other navigation links\", \"option2\": \"As a floating action button at the bottom of the screen\"}, {\"question 2\": \"How should the navlinks behave when the button is interacted with?\", \"option1\": \"Expand below the button in a dropdown menu format\", \"option2\": \"Open a sidebar with the navlinks displayed vertically\"}], \"input_token_count\": 406, \"output_token_count\": 112, \"time_taken\": \"0:00:04.801938\"}",
+        "message_id": "guest08082024065508",
+        "timestamp": "08082024065515",
+        "component_file_name": "simple_cta_component_1723099505",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I will add a button with navlinks for home, about, and contact.",
         "message_id": "guest08082024065508",

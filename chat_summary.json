@@ -1,5 +1,50 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the button with navlinks to be placed in your app's layout?\", \"option1\": \"In the header alongside other navigation links\", \"option2\": \"As a floating action button at the bottom of the screen\"}, {\"question 2\": \"How should the navlinks behave when the button is interacted with?\", \"option1\": \"Expand below the button in a dropdown menu format\", \"option2\": \"Open a sidebar with the navlinks displayed vertically\"}], \"input_token_count\": 406, \"output_token_count\": 112, \"time_taken\": \"0:00:04.801938\"}",
+        "message_id": "guest08082024065508",
+        "timestamp": "08082024065515",
+        "component_file_name": "simple_cta_component_1723099505",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, I will add a button with navlinks for home, about, and contact.",
+        "message_id": "guest08082024065508",
+        "timestamp": "08082024065509",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button with navlinks home, about and contact",
+        "message_id": "guest08082024065508",
+        "timestamp": "08082024065509",
+        "component_file_name": "simple_cta_component_1723099505",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Expandable sub-menus under each main navlink for categorizing further information\", \"checked\": false}, {\"feature\": \"Dynamic search bar in the sidebar for quick access to specific blockchain topics\", \"checked\": true}, {\"feature\": \"Latest blockchain news ticker or notifications in the sidebar\", \"checked\": true}, {\"feature\": \"Customizable themes or color schemes for the sidebar matching blockchain brands or tokens\", \"checked\": false}, {\"feature\": \"Feedback form or survey linked under the contact section for user engagement\", \"checked\": false}, {\"feature\": \"Bookmark or save feature for users to keep track of their favorite blockchain info accessible via the sidebar\", \"checked\": true}], \"input_token_count\": 219, \"output_token_count\": 142, \"time_taken\": \"0:00:06.135315\"}",
+        "message_id": "guest08082024065043",
+        "timestamp": "08082024065051",
+        "component_file_name": "simple_footer_component_1723099505",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the sidebar to be permanently visible or should it be collapsible and only appear when a button is clicked?\", \"option1\": \"Permanently visible\", \"option2\": \"Collapsible with a button\"}, {\"question 2\": \"Should the sidebar navigation include icons next to the text labels, or would you prefer text labels only?\", \"option1\": \"Include icons and text labels\", \"option2\": \"Text labels only\"}], \"input_token_count\": 265, \"output_token_count\": 105, \"time_taken\": \"0:00:03.480838\"}",
+        "message_id": "guest08082024065043",
+        "timestamp": "08082024065048",
+        "component_file_name": "simple_footer_component_1723099505",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a sidebar with navlinks home, about and contact",
         "message_id": "guest08082024065043",
@@ -45,54 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the navbar to be sticky at the top of the page or should it scroll away with the page?\", \"option1\": \"Yes, make the navbar sticky at the top.\", \"option2\": \"No, the navbar should scroll away with the page.\"}, {\"question 2\": \"Do you have a design theme or color scheme in mind for the navbar and navlinks?\", \"option1\": \"Yes, I have a specific design theme or color scheme.\", \"option2\": \"No, I'm open to suggestions based on the current design of the app.\"}], \"input_token_count\": 265, \"output_token_count\": 130, \"time_taken\": \"0:00:07.402196\"}",
-        "message_id": "guest08082024064708",
-        "timestamp": "08082024064717",
-        "component_file_name": "simple_header_component_1723099505",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Alright, I'll add a navbar with the NavLinks.",
-        "message_id": "guest08082024064708",
-        "timestamp": "08082024064709",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "add a navbar with navlinks home, about and contact",
-        "message_id": "guest08082024064708",
-        "timestamp": "08082024064709",
-        "component_file_name": "simple_header_component_1723099505",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a live blockchain news feed section\", \"checked\": true}, {\"feature\": \"Incorporate a 'Blockchain Glossary' for beginners\", \"checked\": false}, {\"feature\": \"Enable push notifications for new blockchain updates or information\", \"checked\": true}, {\"feature\": \"Integrate a searchable database of blockchain platforms and technologies\", \"checked\": false}, {\"feature\": \"Implement a user profile system for saving favorite articles or pieces of information\", \"checked\": false}, {\"feature\": \"Offer light and dark mode options for user convenience\", \"checked\": true}], \"input_token_count\": 215, \"output_token_count\": 120, \"time_taken\": \"0:00:08.775545\"}",
-        "message_id": "guest08082024064533",
-        "timestamp": "08082024064543",
-        "component_file_name": "simple_header_component_1723099505",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned on the app's interface?\", \"option1\": \"Center of the home screen\", \"option2\": \"Bottom navigation area\"}, {\"question 2\": \"What function or action should occur when the 'Hello World' button is pressed?\", \"option1\": \"Display a pop-up message saying 'Hello World'\", \"option2\": \"Navigate to a new page with 'Hello World' information\"}], \"input_token_count\": 261, \"output_token_count\": 107, \"time_taken\": \"0:00:03.486372\"}",
-        "message_id": "guest08082024064533",
-        "timestamp": "08082024064537",
-        "component_file_name": "simple_header_component_1723099505",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "In the conversation, the user requested the AI to add a button that says \"hello world.\" The AI acknowledged this request and sought further clarification by asking the user to describe the project in more detail.",
-        "timestamp": "08082024065044",
-        "message_id": "guest08082024065043"
+        "content": "The user requested the addition of a navbar with NavLinks for \"home,\" \"about,\" and \"contact.\" The AI confirmed that it would add the navbar. The user was also presented with questions regarding the navbar's configuration, specifically whether they want it to be sticky or scroll with the page, and if they have a specific design theme in mind. The user\u2019s preferences were not explicitly mentioned in the latest messages. Additionally, the AI offered a checklist of features, indicating successful implementation of a live blockchain news feed, push notifications for updates, and light/dark mode options, while options for a blockchain glossary, searchable database, and user profile system were not checked. Later, the user asked for a \"Hello World\" button, and the AI confirmed its addition while seeking further clarification about the project. The user indicated they would like the button to be positioned in the center of the home screen and set to display a pop-up message when pressed. The AI acknowledged these details also.",
+        "timestamp": "08082024065515",
+        "message_id": "guest08082024065508"
     }
 ]
